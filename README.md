@@ -1,6 +1,17 @@
 # Intro-to-WebGL 
-Writeup and sample for WebGL 1.0
+![alt tag](http://jfcameron.github.io/Images/WebGL101_Demo/Small.png "")
 
-![alt tag](https://dl.dropboxusercontent.com/u/102655232/Github/Intro-To-WebGL/Build_Image.png "")
+## Description
+Materials for an introductory talk I did on WebGL.
+Contains a Writeup and a code sample.
 
-example: [live demo](https://dl.dropboxusercontent.com/u/102655232/Github/Intro-To-WebGL/Example/Example.html) 
+The writeup introduces key OpenGL concepts and points out notable projects already making use of HTML5/WebGL technology.
+The sample shows:
+
+- how to initalize a WebGL 1.0 context
+- how to create and use your own shader programs
+- how to asynchronously load textures over the network
+- how to create and use vertex data
+- how to use all the above to draw and spin a quad
+
+These materials can be viewed online here: [live demo](http://jfcameron.github.io/Articles/WebGL101Seminar/content.html) 
