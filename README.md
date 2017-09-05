@@ -2,6 +2,9 @@
 ![alt tag](http://jfcameron.github.io/Images/WebGL101_Demo/Small.png "")
 
 ## Description
+![asdf](https://img.shields.io/badge/development%20status-closed-lightgrey.svg)
+![asdf](https://img.shields.io/badge/platforms-web-lightgrey.svg)
+
 Materials for an introductory talk I did on WebGL.
 Contains a Writeup and a code sample.
 
