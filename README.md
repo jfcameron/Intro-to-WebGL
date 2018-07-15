@@ -2,9 +2,6 @@
 ![alt tag](http://jfcameron.github.io/Images/WebGL101_Demo/Small.png "")
 
 ## Description
-![asdf](https://img.shields.io/badge/development%20status-closed-lightgrey.svg)
-![asdf](https://img.shields.io/badge/platforms-web-lightgrey.svg)
-
 Materials for an introductory talk I did on WebGL.
 Contains a Writeup and a code sample.
 
@@ -17,4 +14,5 @@ The sample shows:
 - how to create and use vertex data
 - how to use all the above to draw and spin a quad
 
-These materials can be viewed online here: [live demo](http://jfcameron.github.io/Articles/WebGL101Seminar/content.html) 
+Demo is available here: [live demo](http://jfcameron.github.io/Intro-to-WebGL/)
+See releases page for downloads: [releases](https://github.com/jfcameron/Intro-to-WebGL/releases) 
