@@ -15,4 +15,5 @@ The sample shows:
 - how to use all the above to draw and spin a quad
 
 Demo is available here: [live demo](http://jfcameron.github.io/Intro-to-WebGL/)
+
 See releases page for downloads: [releases](https://github.com/jfcameron/Intro-to-WebGL/releases) 
